@@ -1,0 +1,6 @@
+Unit1=Iscanor|None|1|None|0|First|Max|0
+Unit2=Cid|Cid|1|None|0|First|Max|0
+Unit3=Vanguard Song Jii Woo|Vanguard Song Jii Woo|3|None|0|First|Max|0
+Unit4=Gojo|None|1|None|0|First|Max|0
+Unit5=Takaroda|Takaroda|1|None|0|First|Max|0
+Unit6=Speedwagon|Speedwagon|3|None|0|First|Max|1

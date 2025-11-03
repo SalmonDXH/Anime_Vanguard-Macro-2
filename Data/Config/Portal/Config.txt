@@ -1,0 +1,7 @@
+Team=Team 1
+Map=Edge of Heaven
+Act=1
+Webhook=0
+Time=20
+Name=Spring
+Reward=100

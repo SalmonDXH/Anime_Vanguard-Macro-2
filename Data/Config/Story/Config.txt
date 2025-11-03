@@ -1,0 +1,5 @@
+Team=Team 7
+Map=Planet Namek
+Act=Act 1
+Nightmare=0
+Webhook=0

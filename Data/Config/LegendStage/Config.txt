@@ -1,0 +1,4 @@
+Team=Team 1
+Map=Sand Village
+Act=Act 1
+Webhook=0

@@ -1,0 +1,5 @@
+DefaultTeam=Team 7
+SecondChallenge=Stat Chip
+Redo=0
+Webhook=0
+MapDetail=Burning Spirit Tree,Default Team,1|Crystal Chapel,Default Team,0|Double Dungeon,Default Team,0|Edge of Heaven,Default Team,0|Golden Castle,Default Team,0|Kuinshi Palace,Default Team,0|Martial Island,Default Team,0|Planet Namek,Default Team,0|Shibuya Aftermath,Default Team,0|Shining Castle,Default Team,0|Spirit Society,Default Team,0|The Land of Gods,Team 8,0|Underground Church,Default Team,0|

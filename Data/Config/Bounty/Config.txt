@@ -1,0 +1,5 @@
+DefaultTeam=Team 7
+Check=2
+Redo=0
+Webhook=0
+MapDetail=Crystal Chapel,Default Team,0|Golden Castle,Default Team,0|Planet Namek,Default Team,0|

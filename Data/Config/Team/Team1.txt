@@ -1,0 +1,6 @@
+Unit1=Cid|Cid|1|None|0|First|Max|0
+Unit2=|None|0|None|0|First|0|0
+Unit3=|None|0|None|0|First|0|0
+Unit4=Kaguya|Kaguya|1|None|0|First|Max|0
+Unit5=Takaroda|Takaroda|1|None|0|First|Max|0
+Unit6=Speedwagon|Speedwagon|3|None|0|First|Max|1

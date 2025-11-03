@@ -1,0 +1,4 @@
+DefaultTeam=Team 1
+Webhook=0
+dadadan=Money Surge
+MapDetail=Kuinshi Palace,Default Team,0|Mountain Shrine,Default Team,0|Underground Church,Default Team,0|

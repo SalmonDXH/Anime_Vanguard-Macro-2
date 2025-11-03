@@ -1,0 +1,5 @@
+Team=Team 1
+Map=Ruined City
+Act=Act 1
+Webhook=0
+Mount=Test B

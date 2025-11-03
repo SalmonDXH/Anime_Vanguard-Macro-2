@@ -1,0 +1,120 @@
+Slot 6|Unit 1|0|None|Place|0
+Slot 6|Unit 2|0|None|Place|0
+Slot 6|Unit 3|0|None|Place|0
+Slot 5|Unit 1|0|None|Place|0
+Slot 1|Unit 1|0|None|Place|0
+Slot 1|Unit 2|0|None|Place|0
+Slot 1|Unit 3|0|None|Place|0
+Slot 1|Unit 4|0|None|Place|0
+Slot 1|Unit 5|0|None|Place|0
+Slot 6|Unit 1|Same|None|Special Ability|0
+Slot 2|Unit 1|0|None|Place|0
+Slot 2|Unit 2|0|None|Place|0
+Slot 2|Unit 3|0|None|Place|0
+Slot 2|Unit 4|0|None|Place|0
+Slot 2|Unit 5|0|None|Place|0
+Slot 6|Unit 2|Same|None|Special Ability|0
+Slot 3|Unit 1|0|None|Place|0
+Slot 3|Unit 2|0|None|Place|0
+Slot 3|Unit 3|0|None|Place|0
+Slot 3|Unit 4|0|None|Place|0
+Slot 3|Unit 5|0|None|Place|0
+Slot 6|Unit 3|Same|None|Special Ability|0
+Slot 4|Unit 1|0|None|Place|0
+Slot 4|Unit 2|0|None|Place|0
+Slot 4|Unit 3|0|None|Place|0
+Slot 4|Unit 4|0|None|Place|0
+Slot 4|Unit 5|0|None|Place|0
+Slot 5|Unit 1|Same|None|Special Ability|0
+Slot 1|Unit 1|Same|None|Special Ability|0
+Slot 2|Unit 1|Same|None|Special Ability|0
+Slot 3|Unit 1|Same|None|Special Ability|0
+Slot 4|Unit 1|Same|None|Special Ability|0
+Slot 1|Unit 2|0|None|Special Ability|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
+None|None|0|None|None|0
