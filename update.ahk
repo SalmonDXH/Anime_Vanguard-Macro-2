@@ -8,7 +8,7 @@ class GithubClass {
     }
 
     GetLatestVersionURL(item) {
-        return this.link '/releases/latest/' item
+        return this.link '/releases/latest/download/' item
     }
 }
 
