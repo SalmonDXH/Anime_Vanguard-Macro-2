@@ -43,23 +43,12 @@
 - 🛠️ **Developer:** [@Methams]()
 - 🌐 **Website Developer:** [@Vamp]()
 - 📝 **Head Tester:** [@FunnyValentine](), [@Aligator]()
-
-## ✈️ Supported Map
-some map that macro support
-| Index | Map | Status |
-|-------|-----|--------|
-| 1 | Planet Namek | ✅ |
-| 2 | Sand Village | ✅ |
-| 3 | Double Dungeon | ✅ |
-| 4 | Shibuya Station | ✅ |
-| 5 | Shibuya Aftermath | ✅ |
-
 ---
 
 <div align="center">
     <p align="center">
         <h2><strong>Salmon's Projects</strong></h2>
-        <a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
+        <br/><a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
     </p>
 </div>
 
