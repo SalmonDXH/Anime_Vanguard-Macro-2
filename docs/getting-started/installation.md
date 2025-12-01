@@ -59,6 +59,11 @@ To make **Window Security** not deleting the Macro file, we need to create the *
 - **[⚡Quick Start](quick_start.md)**
 - **[📝User Guide](../user-guide/index.md)**
 
+## Support
+
+- **[❓FAQs](https://salmonsproject.site/faqs)**
+- **[💬 Discord Server](https://www.discord.gg/salmon)**
+
 ---
 
 <div align="center">
