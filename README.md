@@ -47,8 +47,8 @@
 
 <div align="center">
     <p align="center">
-        <h2><strong>Salmon's Projects</strong></h2>
-        <br/><a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
+        <h3><strong>Salmon's Projects</strong></h3>
+        <a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
     </p>
 </div>
 
