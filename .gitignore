@@ -4,3 +4,5 @@ Data/Version
 debug.log
 Data/Verify
 .env
+.txt
+.json
