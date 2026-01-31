@@ -1,10 +1,12 @@
-<a id="readme-top"></a> [![Stars][stars-shield]][stars-url]
-
 <div align="center">
     <h3 align="center">Anime Vanguard Macro</h3>
     <p align="center">
         A reliable tool to let you grind av for days automatically
         <br/>  <a href="https://www.discord.gg/salmon"><strong>Discord Server</strong></a> 💬| <a href="https://salmonsproject.site/"><strong>Website</strong></a> 🌐
+
+![GitHub all releases](https://img.shields.io/github/downloads/SalmonDXH/Anime_Vanguard-Macro-2/total)
+![GitHub release](https://img.shields.io/github/v/release/SalmonDXH/Anime_Vanguard-Macro-2)
+![Stars](https://img.shields.io/github/stars/SalmonDXH/Anime_Vanguard-Macro-2?style=flat)
     </p>
 </div>
 
@@ -51,7 +53,3 @@
         <a href="https://www.discord.gg/salmon"><strong>Discord Server</strong></a> 💬 | <a href="https://salmonsproject.site/"><strong>Website</strong></a> 🌐
     </p>
 </div>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[stars-shield]: https://img.shields.io/github/stars/SalmonDXH/Anime_Vanguard-Macro-2.svg?style=for-the-badge
-[stars-url]: https://github.com/SalmonDXH/Anime_Vanguard-Macro-2/stargazers
