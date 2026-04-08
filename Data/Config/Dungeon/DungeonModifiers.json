@@ -1,0 +1,26 @@
+{
+  "Limits":[
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999",
+    "9999"
+  ],
+  "Modifiers":[
+    "Harvest",
+    "Common Loot",
+    "Uncommon Loot",
+    "Take It",
+    "Damage",
+    "Range",
+    "Slayer",
+    "Champion",
+    "Dodge",
+    "Speed"
+  ]
+}
